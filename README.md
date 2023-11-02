@@ -1,2 +1,1 @@
-# BloodRushGame
-Cowboy action game
+Empty Repo template
